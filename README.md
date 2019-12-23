@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Adding Rebase
 
 We have done so much of work 
+
+GIT stash
